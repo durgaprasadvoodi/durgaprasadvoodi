@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ux designing and animation <br>👯 I’m looking to collaborate on web development content<br>🤝 I’m looking for help with testing tools<br>🌱 I’m currently learning Software testing<br>💬 Ask me about IOT  <br>
+🔭 I’m currently working on ux designing and animation <br>👯 I’m looking to collaborate on web development content<br>🤝 I’m looking for help with testing tools<br>🌱 I’m currently learning Software testing<br>
 
 
 ## 🌐 Socials:
